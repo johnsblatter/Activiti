@@ -3,7 +3,7 @@ Activiti
 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.activiti/activiti-engine/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.activiti/activiti-engine)
 [![security status](https://www.meterian.io/badge/gh/johnsblatter/Activiti/security)](https://www.meterian.io/report/gh/johnsblatter/Activiti)
-[![defect status](https://www.meterian.io/badge/gh/johnsblatter/Activiti/defect)](https://www.meterian.io/report/gh/johnsblatter/Activiti)
+[![stability status](https://www.meterian.io/badge/gh/johnsblatter/Activiti/stability)](https://www.meterian.io/report/gh/johnsblatter/Activiti)
 
 Homepage: http://activiti.org/
 
